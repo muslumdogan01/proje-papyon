@@ -2,6 +2,7 @@ import React from "react";
 import Layout from "../components/Layout";
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import productLogo from "../public/image/productLogo.png";
 import productBgPhoto from "../public/image/productBg.png";
 import product from "../public/image/product/product1.png";
@@ -87,8 +88,12 @@ function Product() {
       </div>
       <div className="product-footer">
         <div className="product-buttons">
+          <Link href="https://apps.apple.com/us/app/roosefy-story-template-design/id1563653448">
           <button>Download App Store</button>
-          <button>Download Play Store</button>
+          </Link>
+         <Link href="https://play.google.com/store/apps/details?id=com.roosefy">
+         <button>Download Play Store</button>
+         </Link>
         </div>
       </div>
     </Layout>
