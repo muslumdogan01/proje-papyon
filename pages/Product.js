@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../Components/Layout";
+import Layout from "../components/Layout";
 import Head from "next/head";
 import Image from "next/image";
 import productLogo from "../public/image/productLogo.png";

@@ -1,8 +1,8 @@
 import React from "react";
-import Layout from "../Components/Layout";
+import Layout from "../components/Layout";
 import Head from "next/head";
-import Content from "../Components/Content";
-import ContentItem from "../Components/ContentItem";
+import Content from "../components/Content";
+import ContentItem from "../components/ContentItem";
 
 function HomePage() {
   return (

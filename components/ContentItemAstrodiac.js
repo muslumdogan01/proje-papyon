@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import roosefyN from "../Public/image/roosefyN.png";
-import astrodiacP from "../Public/image/astrodiactP.png";
+import roosefyN from "../public/image/roosefyN.png";
+import astrodiacP from "../public/image/astrodiactP.png";
 
 function ContentItemAstrodiac() {
   return (

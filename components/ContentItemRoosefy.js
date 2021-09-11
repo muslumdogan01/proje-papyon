@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import roosefyN from "../Public/image/roosefyN.png";
-import roosefyP from "../Public/image/roosefyP.png";
+import roosefyN from "../public/image/roosefyN.png";
+import roosefyP from "../public/image/roosefyP.png";
 
 function ContentItemRoosefy() {
   return (

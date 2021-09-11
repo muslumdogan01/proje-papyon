@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import roosefyN from "../Public/image/roosefyN.png";
-import naricon from "../Public/image/nariconPng.png";
+import roosefyN from "../public/image/roosefyN.png";
+import naricon from "../public/image/nariconPng.png";
 
 function ContentItemNaricon() {
   return (

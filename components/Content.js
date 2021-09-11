@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Head from "next/head";
-import bgImage from "../Public/image/backgroundImage.png";
+import bgImage from "../public/image/backgroundImage.png";
 
 function Content() {
   return (
